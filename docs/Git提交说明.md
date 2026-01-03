@@ -2,10 +2,21 @@
 
 本文档说明本次提交的内容和规范。
 
+## ⚠️ 重要提示
+
+**本次提交通过Pull Request流程进行，不直接推送到master分支。**
+
+- ✅ 已创建功能分支: `feature/role-d-questionnaire-filling`
+- ✅ 所有代码已提交到功能分支
+- ⏳ 等待通过PR合并到master分支
+
+详细PR流程请参考: `docs/PR提交指南.md`
+
 ## 提交信息
 
 **提交类型**: Feature + Bug Fix  
 **提交范围**: 角色D完整功能实现  
+**提交分支**: `feature/role-d-questionnaire-filling`  
 **提交日期**: 2025-01-XX
 
 ## 提交内容
