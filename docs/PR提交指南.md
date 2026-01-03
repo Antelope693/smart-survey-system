@@ -1,12 +1,20 @@
 # Pull Request 提交指南
 
+## ⚠️ 重要提示
+
+**如果您不是项目协作者，请使用 Fork 方式提交 PR！**
+
+详细步骤请参考: `docs/Fork和PR操作指南.md`
+
+---
+
 ## 📋 当前状态
 
 ✅ **功能分支已创建**: `feature/role-d-questionnaire-filling`  
 ✅ **所有代码已提交**: 包含角色D的完整功能实现  
 ✅ **提交规范**: 遵循Conventional Commits规范
 
-## 🔄 Git工作流
+## 🔄 Git工作流（协作者方式）
 
 ### 1. 分支结构
 
